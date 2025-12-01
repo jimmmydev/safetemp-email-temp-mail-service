@@ -1,182 +1,159 @@
-# SafeTemp Email --- Temporary Email Service & Privacy Protection Platform
+# SafeTemp Email �� Temporary Email Service & Privacy Protection Platform
 
-### Versión profesional y extendida
+### Professional and Extended Version
 
-**SafeTemp Email** es un servicio avanzado de correo temporal diseñado
-para ofrecer privacidad digital real. Permite generar direcciones
-desechables y anónimas al instante, evitando el rastreo, el spam y el
-abuso de datos personales.
+**SafeTemp Email** is an advanced temporary email service designed to provide real digital privacy. It allows users to generate disposable and anonymous addresses instantly, avoiding tracking, spam, and abuse of personal data.
 
-👉 **Sitio oficial:** https://safetemp.email
+?? **Official website:** https://safetemp.email
 
 ------------------------------------------------------------------------
 
-# 📘 Introducción
+# ?? Introduction
 
-En un entorno digital donde la recolección de datos es constante,
-proteger la identidad se vuelve esencial.\
-SafeTemp Email nace como una solución moderna, rápida y efectiva para
-cualquier usuario que necesite un correo temporal sin fricción, sin
-registros y sin comprometer su privacidad.
+In a digital environment where data collection is constant, protecting identity is essential.  
+SafeTemp Email was created as a modern, fast, and effective solution for anyone needing a temporary email without friction, registration, or compromising privacy.
 
-Este repositorio público proporciona documentación, roadmap, guías
-técnicas y recursos relacionados con el proyecto.
+This public repository provides documentation, roadmap, technical guides, and resources related to the project.
 
-> **Nota:** El código fuente del backend no se publica por motivos de
-> seguridad y para evitar abuso del servicio.
+> **Note:** The backend source code is not published for security reasons and to prevent service abuse.
 
 ------------------------------------------------------------------------
 
-# 🧩 ¿Por qué SafeTemp Email?
+# ?? Why SafeTemp Email?
 
-A diferencia de otros servicios de correo temporal, SafeTemp Email está
-optimizado para:
+Unlike other temporary email services, SafeTemp Email is optimized for:
 
--   **Velocidad real:** inbox en tiempo real, sin retrasos\
--   **Privacidad estricta:** sin registros, cookies invasivas ni
-    historiales\
--   **Uso profesional:** ideal para testers, desarrolladores, QA y
-    automatizaciones\
--   **Experiencia móvil intuitiva:** interfaz ligera y compatible con
-    todos los dispositivos\
--   **Alta disponibilidad:** infraestructura escalable preparada para
-    picos de tráfico
+- **Real-time speed:** inbox updates instantly  
+- **Strict privacy:** no logs, invasive cookies, or histories  
+- **Professional use:** ideal for testers, developers, QA, and automation  
+- **Intuitive mobile experience:** lightweight interface compatible with all devices  
+- **High availability:** scalable infrastructure prepared for traffic peaks
 
 ------------------------------------------------------------------------
 
-# 🚀 Características clave
+# ?? Key Features
 
-### ✔ Generación instantánea de emails temporales
+### ? Instant generation of temporary emails
+No registration, validation, or captcha.
 
-Sin registros, sin validaciones y sin captcha.
+### ? Real-time inbox
+Automatic updates and instant messages.
 
-### ✔ Bandeja en tiempo real
+### ? Automatic expiration
+Emails are deleted when the temporary session expires.
 
-Actualización automática y mensajes instantáneos.
+### ? Anti-tracking protection
+Disposable emails reduce:
 
-### ✔ Expiración automática
+- Spam  
+- Fingerprinting  
+- Corporate tracking  
+- Risk of data breaches
 
-Los correos se eliminan cuando expira la sesión temporal.
+### ? Secure browsing
+No personal data is stored.
 
-### ✔ Protección contra rastreo
-
-Los correos desechables reducen:
-
--   Spam\
--   Fingerprinting\
--   Tracking empresarial\
--   Riesgo de brechas
-
-### ✔ Navegación segura
-
-No se almacena ningún dato personal.
-
-### ✔ API (futura)
-
-Diseñada para automatizar registros, QA y flujos de prueba.
+### ? API (future)
+Designed to automate registrations, QA, and testing workflows.
 
 ------------------------------------------------------------------------
 
-# 🏗 Arquitectura del Servicio (Resumen)
+# ?? Service Architecture (Summary)
 
-Aunque el backend es privado, la arquitectura incluye:
+Although the backend is private, the architecture includes:
 
--   Microservicio de generación de buzones\
--   Listener de mensajes con polling optimizado\
--   Módulo anti-abuso y anti-spam\
--   Frontend ligero con streaming\
--   Sistema de limpieza automática y expiración
+- Mailbox generation microservice  
+- Optimized message listener with polling  
+- Anti-abuse and anti-spam module  
+- Lightweight frontend with streaming  
+- Automatic cleanup and expiration system
 
-Contenido futuro del repositorio:
+Future repository content:
 
--   Diagramas\
--   Documentación de flujo de datos\
--   Documentación de la API pública
-
-------------------------------------------------------------------------
-
-# 📚 Contenido del Repositorio
-
--   README.md --- Documentación principal\
--   docs/overview.md --- Visión técnica\
--   docs/privacy.md --- Privacidad y tratamiento efímero\
--   docs/api.md --- API preliminar (futuro)\
--   CHANGELOG.md --- Cambios del proyecto\
--   CONTRIBUTING.md --- Guía de contribución
+- Diagrams  
+- Data flow documentation  
+- Public API documentation
 
 ------------------------------------------------------------------------
 
-# 📈 Roadmap 2025
+# ?? Repository Contents
 
-### Próximas funcionalidades
-
--   API pública REST\
--   Webhooks\
--   Dominios alternativos\
--   Modo inbox persistente\
--   Extensión para Chrome/Edge\
--   Dashboard para developers\
--   Rotación automática segura\
--   Temporizadores configurables
-
-### Futuras integraciones
-
--   Automatización QA\
--   CI/CD\
--   SDKs para JS, Python y Go
+- `README.md` �� Main documentation  
+- `docs/overview.md` �� Technical overview  
+- `docs/privacy.md` �� Privacy and ephemeral data handling  
+- `docs/api.md` �� Preliminary API (future)  
+- `CHANGELOG.md` �� Project changelog  
+- `CONTRIBUTING.md` �� Contribution guide
 
 ------------------------------------------------------------------------
 
-# 🛡 Seguridad y Privacidad
+# ?? Roadmap 2025
 
-Principios fundamentales:
+### Upcoming Features
+- Public REST API  
+- Webhooks  
+- Alternative domains  
+- Persistent inbox mode  
+- Chrome/Edge extension  
+- Developer dashboard  
+- Automatic secure rotation  
+- Configurable timers
 
-1.  **Cero almacenamiento personal**\
-2.  **Cero registro obligatorio**\
-3.  **Cero rastreo**
-
-Toda la información es efímera y no se almacena ningún dato
-identificable.
-
-------------------------------------------------------------------------
-
-# 🤝 Contribuciones
-
-Se aceptan contribuciones relacionadas con documentación, ideas y
-sugerencias.
-
-Puedes abrir issues para:
-
--   Nuevas funcionalidades\
--   Errores\
--   Mejoras\
--   Propuestas de integración
+### Future Integrations
+- QA automation  
+- CI/CD  
+- SDKs for JS, Python, and Go
 
 ------------------------------------------------------------------------
 
-# 🔗 Enlaces importantes
+# ?? Security and Privacy
 
--   Sitio web: https://safetemp.email\
--   Estado del proyecto: en expansión\
--   API futura: documentación preliminar pronto\
--   Contacto y soporte: próximamente
+Core principles:
 
-------------------------------------------------------------------------
+1. **Zero personal data storage**  
+2. **Zero mandatory registration**  
+3. **Zero tracking**
 
-# 📜 Licencia
-
-Publicado bajo licencia MIT.\
-Libre uso y distribución con atribución.
+All information is ephemeral and no identifiable data is stored.
 
 ------------------------------------------------------------------------
 
-# ⭐ Apoya el proyecto
+# ?? Contributions
 
-Si SafeTemp Email te resulta útil, considera dejar una estrella ⭐ en el
-repositorio.
+Contributions related to documentation, ideas, and suggestions are welcome.
+
+You can open issues for:
+
+- New features  
+- Bugs  
+- Improvements  
+- Integration proposals
 
 ------------------------------------------------------------------------
 
-# 🙌 Gracias por utilizar SafeTemp Email
+# ?? Important Links
 
-Tu privacidad importa. Y SafeTemp Email está construido para protegerla.
+- Website: https://safetemp.email  
+- Project status: expanding  
+- Future API: preliminary documentation coming soon  
+- Contact and support: coming soon
+
+------------------------------------------------------------------------
+
+# ?? License
+
+Published under MIT License.  
+Free use and distribution with attribution.
+
+------------------------------------------------------------------------
+
+# ? Support the Project
+
+If you find SafeTemp Email useful, consider giving a star ? in the repository.
+
+------------------------------------------------------------------------
+
+# ?? Thank You for Using SafeTemp Email
+
+Your privacy matters.  
+SafeTemp Email is built to protect it.
