@@ -112,7 +112,6 @@ Core principles:
 
 1. **Zero personal data storage**  
 2. **Zero mandatory registration**  
-3. **Zero tracking**
 
 All information is ephemeral and no identifiable data is stored.
 
