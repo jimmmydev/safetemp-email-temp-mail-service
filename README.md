@@ -141,8 +141,10 @@ You can open issues for:
 
 # 📜 License
 
-Published under MIT License.  
-Free use and distribution with attribution.
+© 2025 SafeTemp Email. All rights reserved.
+This repository is public only for reference and backlinks.
+No part of this content or code may be copied, redistributed, or used
+without explicit permission from the copyright holder.
 
 ------------------------------------------------------------------------
 
