@@ -1,14 +1,14 @@
-# SafeTemp Email �� Temporary Email Service & Privacy Protection Platform
+﻿# SafeTemp Email — Temporary Email Service & Privacy Protection Platform
 
 ### Professional and Extended Version
 
 **SafeTemp Email** is an advanced temporary email service designed to provide real digital privacy. It allows users to generate disposable and anonymous addresses instantly, avoiding tracking, spam, and abuse of personal data.
 
-?? **Official website:** https://safetemp.email
+👉 **Official website:** https://safetemp.email
 
 ------------------------------------------------------------------------
 
-# ?? Introduction
+# 📘 Introduction
 
 In a digital environment where data collection is constant, protecting identity is essential.  
 SafeTemp Email was created as a modern, fast, and effective solution for anyone needing a temporary email without friction, registration, or compromising privacy.
@@ -19,7 +19,7 @@ This public repository provides documentation, roadmap, technical guides, and re
 
 ------------------------------------------------------------------------
 
-# ?? Why SafeTemp Email?
+# 🧩 Why SafeTemp Email?
 
 Unlike other temporary email services, SafeTemp Email is optimized for:
 
@@ -31,18 +31,18 @@ Unlike other temporary email services, SafeTemp Email is optimized for:
 
 ------------------------------------------------------------------------
 
-# ?? Key Features
+# 🚀 Key Features
 
-### ? Instant generation of temporary emails
+### ✔ Instant generation of temporary emails
 No registration, validation, or captcha.
 
-### ? Real-time inbox
+### ✔ Real-time inbox
 Automatic updates and instant messages.
 
-### ? Automatic expiration
+### ✔ Automatic expiration
 Emails are deleted when the temporary session expires.
 
-### ? Anti-tracking protection
+### ✔ Anti-tracking protection
 Disposable emails reduce:
 
 - Spam  
@@ -50,15 +50,15 @@ Disposable emails reduce:
 - Corporate tracking  
 - Risk of data breaches
 
-### ? Secure browsing
+### ✔ Secure browsing
 No personal data is stored.
 
-### ? API (future)
+### ✔ API (future)
 Designed to automate registrations, QA, and testing workflows.
 
 ------------------------------------------------------------------------
 
-# ?? Service Architecture (Summary)
+# 🏗 Service Architecture (Summary)
 
 Although the backend is private, the architecture includes:
 
@@ -76,18 +76,18 @@ Future repository content:
 
 ------------------------------------------------------------------------
 
-# ?? Repository Contents
+# 📚 Repository Contents
 
-- `README.md` �� Main documentation  
-- `docs/overview.md` �� Technical overview  
-- `docs/privacy.md` �� Privacy and ephemeral data handling  
-- `docs/api.md` �� Preliminary API (future)  
-- `CHANGELOG.md` �� Project changelog  
-- `CONTRIBUTING.md` �� Contribution guide
+- `README.md` — Main documentation  
+- `docs/overview.md` — Technical overview  
+- `docs/privacy.md` — Privacy and ephemeral data handling  
+- `docs/api.md` — Preliminary API (future)  
+- `CHANGELOG.md` — Project changelog  
+- `CONTRIBUTING.md` — Contribution guide
 
 ------------------------------------------------------------------------
 
-# ?? Roadmap 2025
+# 📈 Roadmap 2025
 
 ### Upcoming Features
 - Public REST API  
@@ -106,7 +106,7 @@ Future repository content:
 
 ------------------------------------------------------------------------
 
-# ?? Security and Privacy
+# 🛡 Security and Privacy
 
 Core principles:
 
@@ -118,7 +118,7 @@ All information is ephemeral and no identifiable data is stored.
 
 ------------------------------------------------------------------------
 
-# ?? Contributions
+# 🤝 Contributions
 
 Contributions related to documentation, ideas, and suggestions are welcome.
 
@@ -131,7 +131,7 @@ You can open issues for:
 
 ------------------------------------------------------------------------
 
-# ?? Important Links
+# 🔗 Important Links
 
 - Website: https://safetemp.email  
 - Project status: expanding  
@@ -140,20 +140,20 @@ You can open issues for:
 
 ------------------------------------------------------------------------
 
-# ?? License
+# 📜 License
 
 Published under MIT License.  
 Free use and distribution with attribution.
 
 ------------------------------------------------------------------------
 
-# ? Support the Project
+# ⭐ Support the Project
 
-If you find SafeTemp Email useful, consider giving a star ? in the repository.
+If you find SafeTemp Email useful, consider giving a star ⭐ in the repository.
 
 ------------------------------------------------------------------------
 
-# ?? Thank You for Using SafeTemp Email
+# 🙌 Thank You for Using SafeTemp Email
 
 Your privacy matters.  
 SafeTemp Email is built to protect it.
